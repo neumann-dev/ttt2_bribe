@@ -1,0 +1,14 @@
+{
+    "title": "[TTT2] Snuggle Struggle [WEAPON]",
+    "type": "weapon",
+    "tags": [
+        "realism",
+        "fun"
+    ],
+    "description": "Have fun with your enemies! Cannot be used if the disguiser has been bought!",
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn"
+    ]
+}
